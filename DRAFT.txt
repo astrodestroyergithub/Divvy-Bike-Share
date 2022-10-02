@@ -1,0 +1,33 @@
+Cyclistic Bike-share Analysis for Targeted Casual-users marketing
+
+Brief Intro:
+
+Data analytics plays an important role in analyzing and boosting the sales of any company. It has an upper hand when it comes to implementing market plans to target the set of customers who are the most vulnerable by suggesting them various specialized schemes and membership benefits.
+
+Where will Data Analytics be applied here:
+
+Although the age calls for motor-vehicles as the major shareholders of the commute industries, cyclists still continue to have impressive shares in some of the developing heavyweights and developed nations around the world. Some of the countries like Sweden, Denmark, Germany, UK, Japan and even China have a wonderful landscape for cycling. Although some of them are casual riders, quite a many are annual members for the major cycle manufacturing companies all over the world.
+
+The basic design:
+
+Hence, it is no joke that the directors of marketing in these companies believe that the company's future success heavily depends on maximizing the number of annual memberships. Therefore, it is imperative for the teams to understand how casual riders and annual members use Cyclist bikes differently. From these insights, the teams can design a new marketing strategy to convert casual riders into annual members. But first, Cyclist executives must approve the recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+
+Questions to Ask:
+
+Three questions will guide the future marketing program:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+
+2. Why would casual riders buy Cyclistic annual memberships?
+
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+The goal of this case study is to identify how annual members and casual riders use Cyclistic bikes differently.This comparison along with other tasks will later be used by the marketing department for developing strategies aimed at converting casual riders into members.
+
+Stakeholders:
+
+Primary stakeholders: The director of marketing and Cyclistic executive team.
+
+Secondary stakeholders: Cyclistic marketing analytics team.
+
+Following a step-based approach, the entire project will follow the six-step data analysis process: ask, prepare, process, analyze, share, and act.
