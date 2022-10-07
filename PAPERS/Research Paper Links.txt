@@ -15,3 +15,6 @@
 15. https://www.researchgate.net/publication/340075155_An_approach_to_modeling_bike-sharing_systems_based_on_spatial_equity_concept
 16. https://nacto.org/wp-content/uploads/2016/02/2015_Ricci_Bike-Sharing-Review-of-Evidence-on-Impacts-and-Processes-of-Implementation-and-Operation.pdf
 17. https://ieeexplore.ieee.org/document/9588089
+18. https://www.sciencedirect.com/science/article/abs/pii/S0959652619347754
+19. https://www.researchgate.net/publication/357914672_Increasing_Bike-Sharing_Users'_Willingness_to_Pay_-_A_Study_of_China_Based_on_Perceived_Value_Theory_and_Structural_Equation_Model
+20. https://www.researchgate.net/publication/356740694_Understanding_the_intention_to_use_bike-sharing_system_A_case_study_in_Xi'an_China
