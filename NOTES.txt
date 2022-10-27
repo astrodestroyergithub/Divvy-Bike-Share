@@ -55,3 +55,16 @@ Summary: The study methodology proposed by the authors in this research paper ai
 
 [19] Are bikeshare users different from regular cyclists? a first look at short-term users, 3 annual members, and area cyclists in the Washington, DC region:
 Summary: In this research paper, the authors investigated the travel behavior characteristics of bicycle system users. A comparative analysis was done to understand the differences between annual members and short-term user profiles on Capital Bikeshare (CaBi). The data used for the overall research was gathered from Washington, DC area regional household travel survey of 2007-2008, an intercept 10 survey of short-term CaBi users, and an online survey of annual CaBi members. This paper deals with a case study of short-term and annual bikeshare users of Capital 13 Bikeshare (CaBi) in Washington, DC and Arlington County, VA. The monthly and annual users were subjected to an online membership survey, while the users who has a 24-hour or 5-day membership were examined on the basis of 23 survey questions. The objectives for the long-term members were to collect info on demographic and use characteristics of CaBi members, 4 satisfaction with the system, and changes in travel patterns based on bikeshare availability. Short-term users who did not have time to complete the verbal 19 survey were provided with instructions for completing the survey online. The analysis part comprised of the discussion on various aspects: Demographics of Area Cyclists, Short-Term Users, and Annual Members; Income, Car Ownership, and Access to a Bicycle; Trip Purpose, Mode Shift, and Helmet Use. Finally before concluding the paper, the authors also touched upon some of the scopes for future research which included whether there could be significant differences or not between Area and CaBi users when controlling for other factors, admitting that the analysis cannot fully consider the spatial restrictions of the two CaBi surveys, presence of potential biases over the sample as CaBi annual member survey respondents self-selected from email and online solicitations, and 6 responded over the internet, Results for the Washington, DC area may not apply to other US cities, etc.
+
+[*] Datasets which can be used for the research: 
+
+(i) https://data.world/datasets/bike-share
+(ii) https://data.cityofchicago.org/Transportation/Divvy-Trips/fg6s-gzvg/data
+(iii) https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-Historical/eq45-8inv/data
+(iv) https://data.cityofchicago.org/Transportation/Divvy-Trips-Subscriber-Only/4am4-35ir/data
+(v) https://data.cityofchicago.org/Transportation/Divvy-Trips-Non-Subscriber-Only/68dc-dswq/data
+(vi) https://data.mendeley.com/datasets/zbdtzxcxvg/2/files/df4d4c58-4c17-401e-8fbd-5c5548734836
+(vii) https://www.kaggle.com/datasets/kfoster150/los-angeles-metro-bike-share-trip-data
+(viii) https://www.kaggle.com/datasets/vineethakkinapalli/citibike-bike-sharingnewyork-cityjan-to-apr-2021
+(ix) https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes
+(x) https://www.kaggle.com/datasets/jolasa/bay-area-bike-sharing-trips
