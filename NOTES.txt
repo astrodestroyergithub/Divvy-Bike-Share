@@ -188,6 +188,12 @@ Theme: The approach of how the managing authorities of the bikesharing systems m
 
 [2], [5], [6], [12], [14], [19]
 
+FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long Short Term Memory), GRU (Gated Recurrent Unit), TCN (Temporal Convolutional Network), GNNs (Graph Neural Networks), GCN (Graph Convolutional Network), GAT (Graph Attention Network), ARIMA (Auto Regressive Integrated Moving Average), SARIMAX, XGBoost, HA (Historical Average), MA (Moving Average), ConvLSTM, ST-ResNet, DMVST-Net, TensorFlow, PyTorch, Reinforcement Learning, Transfer Learning, Meta Learning.
+
+* CNN is only/mainly used for image-processing (where the input is visual and not textual)
+* RNN is mainly used in the context on NLP (Natural Language Processing), sequence matters in RNN, QnA applications, time-series uses RNN
+* NLP : BOW (Bag Of Words), TF-IDF, Word2Vec (all these are means of converting words to vectors)
+
 [I] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share
 [II] https://github.com/pgebert/bike-sharing-dataset
 [III] https://data.world/datasets/bike-share
@@ -207,3 +213,8 @@ Theme: The approach of how the managing authorities of the bikesharing systems m
 [XVII] https://ride.divvybikes.com/about
 [XVIII] https://www.investopedia.com/terms/p/perceived-value.asp
 [XIX] https://www.sciencedirect.com/science/article/pii/S1755534513700502
+[XX] https://towardsdatascience.com/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a
+[XXI] https://www.youtube.com/watch?v=Y2wfIKQyd1I
+[XXII] https://www.youtube.com/watch?v=CPl9XdIFbYA
+[XXIII] https://www.youtube.com/watch?v=u8utlK_c5C8
+[XXIV] https://www.youtube.com/watch?v=6EXP2-d_xQA
