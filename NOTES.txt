@@ -219,3 +219,4 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXIII] https://www.youtube.com/watch?v=u8utlK_c5C8
 [XXIV] https://www.youtube.com/watch?v=6EXP2-d_xQA
 [XXV] https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial
+[XXVI] https://medium.com/@limavallantin/analysing-bike-sharing-trends-with-python-a9f574c596b9
