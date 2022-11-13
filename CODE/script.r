@@ -33,3 +33,23 @@ dim(df)
 head(df)  
 str(df)  
 summary(df)
+
+# viewing the sample dataset
+View(df)
+
+# adding new columns for calculating the following for each ride
+# date
+# year
+# month
+# day
+# day of the week
+df$date <- as.Date(df$`START TIME`)
+df$year <- format(as.Date(df$`START TIME`),"%Y")
+df$month <- format(as.Date(df$`START TIME`),"%m")
+df$day <- format(as.Date(df$`START TIME`),"%d")
+df <- df %>%
+  mutate(day_of_week <- weekdays(as.Date(df$`START TIME`)))
+
+# checking if we have the required column inclusions
+head(df)
+
