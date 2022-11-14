@@ -43,13 +43,23 @@ View(df)
 # month
 # day
 # day of the week
-df$date <- as.Date(df$`START TIME`)
-df$year <- format(as.Date(df$`START TIME`),"%Y")
-df$month <- format(as.Date(df$`START TIME`),"%m")
-df$day <- format(as.Date(df$`START TIME`),"%d")
+df$date <- as.Date(df$`START TIME`,"%m/%d/%Y")
+df$year <- format(df$date,"%Y")
+df$month <- format(df$date,"%m")
+df$day <- format(df$date,"%d")
 df <- df %>%
-  mutate(day_of_week <- weekdays(as.Date(df$`START TIME`)))
+  mutate(day_of_week <- weekdays(df$date))
 
 # checking if we have the required column inclusions
 head(df)
 
+# cleaning column names and removing duplicates
+df <- df %>%
+  clean_names() %>%
+  unique()
+
+# exporting cleaned df to new csv
+write_csv(df,'divvy-tripdata_cleaned.csv')
+
+# loading the cleaned dataset into df
+df <- read_csv('divvy-tripdata_cleaned.csv')

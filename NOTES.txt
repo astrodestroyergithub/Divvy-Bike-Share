@@ -221,3 +221,5 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXV] https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial
 [XXVI] https://medium.com/@limavallantin/analysing-bike-sharing-trends-with-python-a9f574c596b9
 [XXVII] https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/as.Date
+[XXVIII] https://www.statmethods.net/input/dates.html#:~:text=You%20can%20use%20the%20as,format%20gives%20the%20appropriate%20format.
+[XXIX] https://www.marsja.se/how-to-extract-year-from-date-in-r-with-examples/#:~:text=To%20get%20the%20year%20from,%3D%22%25Y%22)%20.
