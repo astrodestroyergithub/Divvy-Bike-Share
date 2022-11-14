@@ -58,8 +58,27 @@ df <- df %>%
   clean_names() %>%
   unique()
 
+# change the column name of day_of_week_weekdays_df_date to day_of_week
+colnames(df)[23] <- "day_of_week"
+
 # exporting cleaned df to new csv
 write_csv(df,'divvy-tripdata_cleaned.csv')
 
 # loading the cleaned dataset into df
 df <- read_csv('divvy-tripdata_cleaned.csv')
+
+# viewing the cleaned dataset
+View(df)
+
+# descriptive data analysis
+
+# descriptive analysis on trip_duration
+summary(df$trip_duration)
+# comparing subscribers and customers
+aggregate(df$trip_duration ~ df$user_type, FUN=mean)
+aggregate(df$trip_duration ~ df$user_type, FUN=median)
+aggregate(df$trip_duration ~ df$user_type, FUN=max)
+aggregate(df$trip_duration ~ df$user_type, FUN=min)
+
+# see the average trip duration by each day for customers and subscribers
+aggregate(df$trip_duration ~ df$user_type + df$day_of_week, FUN=mean)
