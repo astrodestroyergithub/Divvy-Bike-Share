@@ -88,16 +88,16 @@ df$day_of_week <- ordered(df$day_of_week, levels=c("Sunday","Monday","Tuesday","
 
 # error starts
 
-# analyzing user type data by day of the week
+# analyzing ridership data by user type and day of the week
 df %>%
-  mutate(weekday=wday(start_time, label=TRUE)) %>%
+  mutate(weekday=wday(strptime(start_time,"%m/%d/%Y %H:%M:%S %p"), label=TRUE)) %>%
   group_by(user_type, weekday) %>%
-  summarize(number_of_rides=n(), average+duration=mean(trip_duration)) %>%
+  summarize(number_of_rides=n(), average_duration=mean(trip_duration)) %>%
 arrange(user_type, weekday)
 
 # visualizing the number of rides by user type
 df %>% 
-  mutate(weekday = wday(start_time, label = TRUE)) %>% 
+  mutate(weekday = wday(strptime(start_time,"%m/%d/%Y %H:%M:%S %p"), label = TRUE)) %>% 
   group_by(user_type, weekday) %>% 
   summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>% 
   arrange(user_type, weekday)  %>% 
@@ -106,7 +106,7 @@ df %>%
 
 # visualizing average duration of trip by user type
 df %>% 
-  mutate(weekday = wday(start_time, label = TRUE)) %>% 
+  mutate(weekday = wday(strptime(start_time,"%m/%d/%Y %H:%M:%S %p"), label = TRUE)) %>% 
   group_by(user_type, weekday) %>% 
   summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>% 
   arrange(user_type, weekday)  %>% 
@@ -117,7 +117,7 @@ df %>%
 
 # total and average number of weekly rides by user type
 summary_wd <- df %>% 
-  mutate(weekday = wday(start_time, label = TRUE)) %>%  
+  mutate(weekday = wday(strptime(start_time,"%m/%d/%Y %H:%M:%S %p"), label = TRUE)) %>%  
   group_by(user_type, weekday) %>%  
   summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>%    
   arrange(user_type, weekday)
@@ -125,7 +125,7 @@ write_csv(summary_wd, "summary_ride_length_weekday.csv")
 
 # total and average number of monthly rides by user type
 summary_month <- df %>% 
-  mutate(month = month(start_time, label = TRUE)) %>%  
+  mutate(month = month(strptime(start_time,"%m/%d/%Y %H:%M:%S %p"), label = TRUE)) %>%  
   group_by(month,user_type) %>%  
   summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>%    
   arrange(month, user_type)

@@ -4,3 +4,6 @@ CODE/.Rhistory
 CODE/divvy_trips.csv
 CODE/sample_dataset.csv
 CODE/divvy-tripdata_cleaned.csv
+CODE/summary_ride_length_month.csv
+CODE/summary_ride_length_weekday.csv
+CODE/summary_stations.csv
