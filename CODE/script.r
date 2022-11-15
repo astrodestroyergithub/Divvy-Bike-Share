@@ -82,3 +82,60 @@ aggregate(df$trip_duration ~ df$user_type, FUN=min)
 
 # see the average trip duration by each day for customers and subscribers
 aggregate(df$trip_duration ~ df$user_type + df$day_of_week, FUN=mean)
+
+# sorting the days of the week
+df$day_of_week <- ordered(df$day_of_week, levels=c("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"))
+
+# error starts
+
+# analyzing user type data by day of the week
+df %>%
+  mutate(weekday=wday(start_time, label=TRUE)) %>%
+  group_by(user_type, weekday) %>%
+  summarize(number_of_rides=n(), average+duration=mean(trip_duration)) %>%
+arrange(user_type, weekday)
+
+# visualizing the number of rides by user type
+df %>% 
+  mutate(weekday = wday(start_time, label = TRUE)) %>% 
+  group_by(user_type, weekday) %>% 
+  summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>% 
+  arrange(user_type, weekday)  %>% 
+  ggplot(aes(x = weekday, y = number_of_rides, fill = user_type)) +
+  geom_col(position = "dodge")
+
+# visualizing average duration of trip by user type
+df %>% 
+  mutate(weekday = wday(start_time, label = TRUE)) %>% 
+  group_by(user_type, weekday) %>% 
+  summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>% 
+  arrange(user_type, weekday)  %>% 
+  ggplot(aes(x = weekday, y = average_duration, fill = user_type)) +
+  geom_col(position = "dodge")
+
+# exporting summary file for further analysis
+
+# total and average number of weekly rides by user type
+summary_wd <- df %>% 
+  mutate(weekday = wday(start_time, label = TRUE)) %>%  
+  group_by(user_type, weekday) %>%  
+  summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>%    
+  arrange(user_type, weekday)
+write_csv(summary_wd, "summary_ride_length_weekday.csv")
+
+# total and average number of monthly rides by user type
+summary_month <- df %>% 
+  mutate(month = month(start_time, label = TRUE)) %>%  
+  group_by(month,user_type) %>%  
+  summarise(number_of_rides = n(), average_duration = mean(trip_duration)) %>%    
+  arrange(month, user_type)
+write_csv(summary_month, "summary_ride_length_month.csv")
+
+# stations most used by each user group
+summary_station <- df %>% 
+  mutate(station = from_station_name) %>%
+  drop_na(from_station_name) %>% 
+  group_by(from_station_name, user_type) %>%  
+  summarise(number_of_rides = n()) %>%    
+  arrange(number_of_rides)
+write_csv(summary_station, "summary_stations.csv")
