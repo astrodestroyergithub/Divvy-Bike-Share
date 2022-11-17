@@ -66,7 +66,7 @@ The BSS Industry no-doubt has huge potential in the future. The below mentioned 
 
 #### Fit Idea to Travel:
 
-![Fit Idea to Travel](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Fit_Idea_Travel.png.png)
+![Fit Idea to Travel](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Fit_Idea_Travel.png)
 
 #### E-Bikes in Numbers:
 
@@ -96,6 +96,8 @@ The main motivation for choosing this topic comes from the fact that it addresse
 The objective of this research is to extensively analyze and rigorously study every minute behavior of subscribers and customers of the Divvy bike share service in Chicago. Since, in order to understand the two types of users, we should accurately assess and analyze the other composite factors affecting them, it becomes imperative to first of all, dive deep into those shadow-level aspects. Attributes such as trip duration, gender, age, distance between to and from station, locations of the two, etc. are major factors which have a major say in influencing the next-move of the respective types of users of the bike-share system. Having understood precisely these factors, various marketing strategies carved especially towards the user-types can be formed to increase the profits of the company.
 
 ## Flow-Chart (What has been done till now):
+
+![Capstone Diagram-1](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Capstone_Diagram_1.png)
 
 ## References:
 
