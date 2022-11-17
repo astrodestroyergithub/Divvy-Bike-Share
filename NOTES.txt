@@ -193,6 +193,16 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * CNN is only/mainly used for image-processing (where the input is visual and not textual)
 * RNN is mainly used in the context on NLP (Natural Language Processing), sequence matters in RNN, QnA applications, time-series uses RNN
 * NLP : BOW (Bag Of Words), TF-IDF, Word2Vec (all these are means of converting words to vectors)
+* Bokeh (library in python) : Used for high-performance visual presentation of large datasets in modern web-browsers
+* Usage of popular python libraries used extensively in data science and for implementing neural networks : Scikit-Learn, Tensor-Flow, SkFlow, Keras
+* Data Wrangling : Act of converting raw data into processed and more useful form fit for applying data analytics operations
+* SciPy (python library that provides mathematical algorithms and convenience functions)
+* Matplotlib, ggplot2 : For performing data visualizations
+* PySpark : Suitable for large-scale data processing
+* More data visualizations with Tableau
+* PyTorch : Open-Source Machine Learning Framework based on Python used for creating Deep Neural Networks
+* Stochastic Gradient Descent : Optimization algorithm often used in machine learning applications to find the model parameters that correspond to the best fit between predicted and actual outputs
+* Time Series Analysis : For predicting future prospects of the industry
 
 [I] https://egateway.chennai.vit.ac.in/home
 [II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share
