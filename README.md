@@ -58,19 +58,19 @@ The BSS Industry no-doubt has huge potential in the future. The below mentioned 
 
 #### The Health Benefits of Regular Cycling:
 
-![The Health Benefits of Regular Cycling](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/tree/master/VAULT/Visuals/Health_Benefits_Regular_Cycling.png)
+![The Health Benefits of Regular Cycling](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Health_Benefits_Regular_Cycling.png)
 
 #### North America Bicycle Market:
 
-![North America Bicycle Market](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/tree/master/VAULT/Visuals/North_America_Bicycle_Market.png)
+![North America Bicycle Market](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/North_America_Bicycle_Market.png)
 
 #### Fit Idea to Travel:
 
-![Fit Idea to Travel](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/tree/master/VAULT/Visuals/Fit_Idea_Travel.png.png)
+![Fit Idea to Travel](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Fit_Idea_Travel.png.png)
 
 #### E-Bikes in Numbers:
 
-![E-Bikes in Numbers](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/tree/master/VAULT/Visuals/E-Bikes_In_Numbers.jpg)
+![E-Bikes in Numbers](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/E-Bikes_In_Numbers.jpg)
 
 ## Gaps in Current Scenario:
 
@@ -99,24 +99,24 @@ The objective of this research is to extensively analyze and rigorously study ev
 
 ## References:
 
-[1] Md Doulotuzzaman Xames, Jannatul Shefa, Ferdous Sarwar, "Bicycle industry as a post‑pandemic green recovery driver in an emerging economy: a SWOT analysis", Springer-Verlag GmbH Germany, part of Springer Nature 2022 (Environmental Science and Pollution Research), July 2022. <br>
-[2] Weiwei Jiang, "Bike sharing usage prediction with deep learning: a survey",  Springer-Verlag London Ltd., part of Springer Nature 2022, Neural Computing and Applications (2022) 34:15369–15385, June 2022. <br>
-[3] Suzana Regina Moro, Paulo Augusto Cauchick-Miguel, "An Analysis of a Bike-Sharing System from a Business Model Perspective", Brazilian Journal of Operations & Production Management, Vol. 19, No. 2, e20221400, 2022, ISSN 2237-8960 (Online), June 2022. <br>
-[4] Yuanyuan Guo, Linchuan Yang, Yang Chen, "Bike Share Usage and the Built Environment: A Review", Frontiers in Public Health (www.frontiersin.org), Volume 10, Article 848169, February 2022. <br>
-[5] Songhua Hu, Mingyang Chen, Yuan Jiang, Wei Sun, Chenfeng Xiong, "Examining factors associated with bike-and-ride (BnR) activities around metro stations in large-scale dockless bikesharing systems", Journal of Transport Geography 98 (2022) 103271, Elsevier Ltd., December 2021. <br>
-[6] Hanning Song, Gaofeng Yin, Xihong Wan, Min Guo, Zhancai Xie, Jiafeng Gu, "Increasing Bike-Sharing Users’ Willingness to Pay — A Study of China Based on Perceived Value Theory and Structural Equation Model", Frontiers in Psychology (www.frontiersin.org), Volume 12 | Article 747462, January 2022. <br>
-[7] Xiaonan Zhang, Jianjun Wang, Xueqin Long, Weijia Li, "Understanding the intention to use bike-sharing system: A case study in Xi’an, China", PLoS ONE 16(12): e0258790, December 2021. <br>
-[8] Puneeth B. R., Nethravathi P. S., "Bicycle Industry in India and its Challenges – A Case Study", International Journal of Case Studies in Business, IT, and Education (IJCSBE), 5(2), 62-74, ISSN: 2581-6942, Vol. 5, No. 2, August 2021. <br>
-[9] Vitória Albuquerque, Miguel Sales Dias, Fernando Bacao, "Machine Learning Approaches to Bike-Sharing Systems: A Systematic Literature Review", International Journal of Geo-Information, ISPRS Int. J. Geo-Inf. 2021, 10, 62, February 2021. <br>
-[10] Anil Jain, Nirmala Joshi, Anand J Mayee, "Factors motivating buying behavior of female two wheeler users in the district of Palghar", Journal of Management Research and Analysis, October-December, 2020;7(4):154-158, December 2020. <br>
-[11] S. Diwakar Raj, Dr. N. Kannan, "Factors Influencing Purchase of Two Wheeler - A Study with Reference to Chennai City", International Journal of Management, 11(12), 2020, pp 2977-2982, ISSN Print: 0976-6502 and ISSN Online: 0976-6510, December 2020. <br>
-[12] Gyugeun Yoon, Joseph Y.J. Chow, "Unlimited-ride bike-share pass pricing revenue management for casual riders using only public data", International Journal of Transportation Science and Technology 9 (2020) 159–169, January 2020. <br>
-[13] Leonardo Caggiani, Rosalia Camporeale, Branka Dimitrijević, Milorad Vidović, "An approach to modeling bike-sharing systems based on spatial equity concept", AIIT 2nd International Congress on Transport Infrastructure and Systems in a changing world (TIS ROMA 2019), 23rd-24th September 2019, Rome, Italy, Elsevier B.V., 2020. <br>
-[14] Mohammed Hamad Almannaa, "Optimizing Bike Sharing Systems: Dynamic Prediction Using Machine Learning and Statistical Techniques and Rebalancing", DOI: 10.13140/RG.2.2.26034.43202, Thesis for: PhD, Advisor: Hesham Rakha, Project: Bike Research, April 2019. <br>
-[15] Elisabete Arsenio, Elisabete Arsenio, Sofia Azeredo Lopes, Helena Iglésias Pereira, "Assessing the market potential of electric bicycles and ICT for low carbon school travel: a case study in the Smart City of ÁGUEDA", European Transport Research Review (2018) 10: 13, Springer, January 2018. <br>
-[16] Miriam Ricci, "Bike sharing: A review of evidence on impacts and processes of implementation and operation", Research in Transportation Business & Management 15 (2015) 28–38, Elsevier Ltd., April 2015. <br>
-[17] Angela Au, "Social Media Strategies Used in Marketing Custom Bicycle Framebuilding Companies", Doctoral Study - Walden University ScholarWorks (Walden Dissertations and Doctoral Studies Collection), November 2015. <br>
-[18] Inês Frade, Anabela Ribeiro, "Bicycle sharing systems demand", EWGT2013 – 16th Meeting of the EURO Working Group on Transportation, Procedia - Social and Behavioral Sciences 111 ( 2014 ) 518 – 527, Elsevier Ltd., February 2014. <br>
-[19] Darren Buck, Ralph Buehler, Patricia Happ, Bradley Rawls, Payton Chung, Natalie Borecki, "Are Bikeshare Users Different from Regular Cyclists? A First Look at Short-Term Users, Annual Members, and Area Cyclists in the Washington, DC Region", Transportation Research Record Journal of the Transportation Research Board 2387(-1):112-119, DOI: 10.3141/2387-13, December 2013. <br>
-[20] Carlos M. Vallez, Mario Castro, David Contreras, "Challenges and Opportunities in Dock-Based Bike-Sharing Rebalancing: A Systematic Review", Sustainability 2021, 13, 1829. https://doi.org/10.3390/su13041829, MDPI, February 2021.
+**[1]** Md Doulotuzzaman Xames, Jannatul Shefa, Ferdous Sarwar, "Bicycle industry as a post‑pandemic green recovery driver in an emerging economy: a SWOT analysis", Springer-Verlag GmbH Germany, part of Springer Nature 2022 (Environmental Science and Pollution Research), July 2022. <br>
+**[2]** Weiwei Jiang, "Bike sharing usage prediction with deep learning: a survey",  Springer-Verlag London Ltd., part of Springer Nature 2022, Neural Computing and Applications (2022) 34:15369–15385, June 2022. <br>
+**[3]** Suzana Regina Moro, Paulo Augusto Cauchick-Miguel, "An Analysis of a Bike-Sharing System from a Business Model Perspective", Brazilian Journal of Operations & Production Management, Vol. 19, No. 2, e20221400, 2022, ISSN 2237-8960 (Online), June 2022. <br>
+**[4]** Yuanyuan Guo, Linchuan Yang, Yang Chen, "Bike Share Usage and the Built Environment: A Review", Frontiers in Public Health (www.frontiersin.org), Volume 10, Article 848169, February 2022. <br>
+**[5]** Songhua Hu, Mingyang Chen, Yuan Jiang, Wei Sun, Chenfeng Xiong, "Examining factors associated with bike-and-ride (BnR) activities around metro stations in large-scale dockless bikesharing systems", Journal of Transport Geography 98 (2022) 103271, Elsevier Ltd., December 2021. <br>
+**[6]** Hanning Song, Gaofeng Yin, Xihong Wan, Min Guo, Zhancai Xie, Jiafeng Gu, "Increasing Bike-Sharing Users’ Willingness to Pay — A Study of China Based on Perceived Value Theory and Structural Equation Model", Frontiers in Psychology (www.frontiersin.org), Volume 12 | Article 747462, January 2022. <br>
+**[7]** Xiaonan Zhang, Jianjun Wang, Xueqin Long, Weijia Li, "Understanding the intention to use bike-sharing system: A case study in Xi’an, China", PLoS ONE 16(12): e0258790, December 2021. <br>
+**[8]** Puneeth B. R., Nethravathi P. S., "Bicycle Industry in India and its Challenges – A Case Study", International Journal of Case Studies in Business, IT, and Education (IJCSBE), 5(2), 62-74, ISSN: 2581-6942, Vol. 5, No. 2, August 2021. <br>
+**[9]** Vitória Albuquerque, Miguel Sales Dias, Fernando Bacao, "Machine Learning Approaches to Bike-Sharing Systems: A Systematic Literature Review", International Journal of Geo-Information, ISPRS Int. J. Geo-Inf. 2021, 10, 62, February 2021. <br>
+**[10]** Anil Jain, Nirmala Joshi, Anand J Mayee, "Factors motivating buying behavior of female two wheeler users in the district of Palghar", Journal of Management Research and Analysis, October-December, 2020;7(4):154-158, December 2020. <br>
+**[11]** S. Diwakar Raj, Dr. N. Kannan, "Factors Influencing Purchase of Two Wheeler - A Study with Reference to Chennai City", International Journal of Management, 11(12), 2020, pp 2977-2982, ISSN Print: 0976-6502 and ISSN Online: 0976-6510, December 2020. <br>
+**[12]** Gyugeun Yoon, Joseph Y.J. Chow, "Unlimited-ride bike-share pass pricing revenue management for casual riders using only public data", International Journal of Transportation Science and Technology 9 (2020) 159–169, January 2020. <br>
+**[13]** Leonardo Caggiani, Rosalia Camporeale, Branka Dimitrijević, Milorad Vidović, "An approach to modeling bike-sharing systems based on spatial equity concept", AIIT 2nd International Congress on Transport Infrastructure and Systems in a changing world (TIS ROMA 2019), 23rd-24th September 2019, Rome, Italy, Elsevier B.V., 2020. <br>
+**[14]** Mohammed Hamad Almannaa, "Optimizing Bike Sharing Systems: Dynamic Prediction Using Machine Learning and Statistical Techniques and Rebalancing", DOI: 10.13140/RG.2.2.26034.43202, Thesis for: PhD, Advisor: Hesham Rakha, Project: Bike Research, April 2019. <br>
+**[15]** Elisabete Arsenio, Elisabete Arsenio, Sofia Azeredo Lopes, Helena Iglésias Pereira, "Assessing the market potential of electric bicycles and ICT for low carbon school travel: a case study in the Smart City of ÁGUEDA", European Transport Research Review (2018) 10: 13, Springer, January 2018. <br>
+**[16]** Miriam Ricci, "Bike sharing: A review of evidence on impacts and processes of implementation and operation", Research in Transportation Business & Management 15 (2015) 28–38, Elsevier Ltd., April 2015. <br>
+**[17]** Angela Au, "Social Media Strategies Used in Marketing Custom Bicycle Framebuilding Companies", Doctoral Study - Walden University ScholarWorks (Walden Dissertations and Doctoral Studies Collection), November 2015. <br>
+**[18]** Inês Frade, Anabela Ribeiro, "Bicycle sharing systems demand", EWGT2013 – 16th Meeting of the EURO Working Group on Transportation, Procedia - Social and Behavioral Sciences 111 ( 2014 ) 518 – 527, Elsevier Ltd., February 2014. <br>
+**[19]** Darren Buck, Ralph Buehler, Patricia Happ, Bradley Rawls, Payton Chung, Natalie Borecki, "Are Bikeshare Users Different from Regular Cyclists? A First Look at Short-Term Users, Annual Members, and Area Cyclists in the Washington, DC Region", Transportation Research Record Journal of the Transportation Research Board 2387(-1):112-119, DOI: 10.3141/2387-13, December 2013. <br>
+**[20]** Carlos M. Vallez, Mario Castro, David Contreras, "Challenges and Opportunities in Dock-Based Bike-Sharing Rebalancing: A Systematic Review", Sustainability 2021, 13, 1829. https://doi.org/10.3390/su13041829, MDPI, February 2021.
 
