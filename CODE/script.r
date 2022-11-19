@@ -1,10 +1,10 @@
-# update Working directory to this script path
+# update working directory to this script path
 library(rstudioapi)
 script_dir = rstudioapi::getActiveDocumentContext()$path
 setwd(dirname(script_dir))
 getwd()
 
-# load Packages
+# load packages
 library(readr)
 library(tidyverse)
 library(dplyr)

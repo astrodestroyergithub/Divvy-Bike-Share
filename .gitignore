@@ -7,3 +7,4 @@ CODE/divvy-tripdata_cleaned.csv
 CODE/summary_ride_length_month.csv
 CODE/summary_ride_length_weekday.csv
 CODE/summary_stations.csv
+CODE/test.py

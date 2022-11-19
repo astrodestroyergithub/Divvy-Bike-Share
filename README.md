@@ -99,6 +99,16 @@ The objective of this research is to extensively analyze and rigorously study ev
 
 ![Capstone Diagram-1](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Capstone_Diagram_1.png)
 
+## Visualizations Obtained (via Descriptive Analysis):
+
+### Number of Rides per User Type:
+
+![Number of Rides per User Type](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Visualization_Diagram_1.png)
+
+### Average Trip Duration by User Type:
+
+![Average Trip Duration by User Type](https://github.com/astrodestroyergithub/Cyclistic-Bike-Share/blob/master/VAULT/Visuals/Visualization_Diagram_2.png)
+
 ## References:
 
 **[1]** Md Doulotuzzaman Xames, Jannatul Shefa, Ferdous Sarwar, "Bicycle industry as a post‑pandemic green recovery driver in an emerging economy: a SWOT analysis", Springer-Verlag GmbH Germany, part of Springer Nature 2022 (Environmental Science and Pollution Research), July 2022. <br>

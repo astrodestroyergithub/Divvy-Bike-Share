@@ -236,3 +236,9 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXX] https://www.statmethods.net/input/dates.html#:~:text=You%20can%20use%20the%20as,format%20gives%20the%20appropriate%20format.
 [XXXI] https://www.marsja.se/how-to-extract-year-from-date-in-r-with-examples/#:~:text=To%20get%20the%20year%20from,%3D%22%25Y%22)%20.
 [XXXII] https://statisticsglobe.com/convert-character-string-am-pm-date-time-r
+[XXXIII] https://www.youtube.com/watch?v=SEnXr6v2ifU
+[XXXIV] https://towardsdatascience.com/implementing-recurrent-neural-network-using-numpy-c359a0a68a67
+[XXXV] https://www.mygreatlearning.com/blog/recurrent-neural-network/
+[XXXVI] https://www.youtube.com/watch?v=ZGfABTjjP3I
+[XXXVII] https://www.influxdata.com/time-series-forecasting-methods/#:~:text=Types%20of%20time%20series%20methods%20used%20for%20forecasting&text=Common%20types%20include%3A%20Autoregression%20(AR,Moving%2DAverage%20(SARIMA).
+[XXXVIII] https://www.youtube.com/watch?v=Rjwknl_LuKw
