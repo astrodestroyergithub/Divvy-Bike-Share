@@ -203,6 +203,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * PyTorch : Open-Source Machine Learning Framework based on Python used for creating Deep Neural Networks
 * Stochastic Gradient Descent : Optimization algorithm often used in machine learning applications to find the model parameters that correspond to the best fit between predicted and actual outputs
 * Time Series Analysis : For predicting future prospects of the industry
+* Hadamard Pdt. of Matrices (Element-Wise Pdt.)
 
 [I] https://egateway.chennai.vit.ac.in/home
 [II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share
@@ -242,3 +243,14 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXVI] https://www.youtube.com/watch?v=ZGfABTjjP3I
 [XXXVII] https://www.influxdata.com/time-series-forecasting-methods/#:~:text=Types%20of%20time%20series%20methods%20used%20for%20forecasting&text=Common%20types%20include%3A%20Autoregression%20(AR,Moving%2DAverage%20(SARIMA).
 [XXXVIII] https://www.youtube.com/watch?v=Rjwknl_LuKw
+[XXXIX] https://www.youtube.com/watch?v=KdeoNqHF3G0
+[XXXX] https://www.youtube.com/watch?v=tn6FUh408q0
+[XXXXI] https://pythonalgos.com/build-a-simple-recurrent-neural-network-with-keras/
+[XXXXII] https://www.tensorflow.org/api_docs/python/tf/keras/layers/SimpleRNN
+[XXXXIII] https://www.researchgate.net/publication/339431419_Predicting_Station_Level_Demand_in_a_Bike_Sharing_System_using_Recurrent_Neural_Networks
+[XXXXIV] https://www.youtube.com/watch?v=LfnrRPFhkuY
+[XXXXV] http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[XXXXVI] https://www.youtube.com/watch?v=tOuXgORsXJ4
+[XXXXVII] https://github.com/gy910210/rnn-from-scratch
+[XXXXVIII] https://cedar.buffalo.edu/~srihari/CSE676/10.2.2%20RNN-Gradients.pdf
+[XXXXIX] https://github.com/rishit13/Recurrent-Neural-Network-from-scratch-using-numpy/blob/master/Recurrent%20_neural_network_scratch.ipynb
