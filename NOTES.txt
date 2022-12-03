@@ -254,3 +254,5 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXVII] https://github.com/gy910210/rnn-from-scratch
 [XXXXVIII] https://cedar.buffalo.edu/~srihari/CSE676/10.2.2%20RNN-Gradients.pdf
 [XXXXIX] https://github.com/rishit13/Recurrent-Neural-Network-from-scratch-using-numpy/blob/master/Recurrent%20_neural_network_scratch.ipynb
+[XXXXX] https://www.youtube.com/watch?v=8FCDpFhd1zk
+[XXXXXI] https://www.youtube.com/watch?v=Lh9LY5YoH0I&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
