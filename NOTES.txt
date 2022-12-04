@@ -204,9 +204,10 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * Stochastic Gradient Descent : Optimization algorithm often used in machine learning applications to find the model parameters that correspond to the best fit between predicted and actual outputs
 * Time Series Analysis : For predicting future prospects of the industry
 * Hadamard Pdt. of Matrices (Element-Wise Pdt.)
+* Auto Regression (AR) Models, Auto Regressive Integrated Moving Average (ARIMA) Models, Auto Regressive Moving Average (ARMA) Models
 
 [I] https://egateway.chennai.vit.ac.in/home
-[II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share
+[II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share 
 [III] https://github.com/pgebert/bike-sharing-dataset
 [IV] https://data.world/datasets/bike-share
 [V] https://data.cityofchicago.org/Transportation/Divvy-Trips/fg6s-gzvg/data
@@ -256,3 +257,5 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXIX] https://github.com/rishit13/Recurrent-Neural-Network-from-scratch-using-numpy/blob/master/Recurrent%20_neural_network_scratch.ipynb
 [XXXXX] https://www.youtube.com/watch?v=8FCDpFhd1zk
 [XXXXXI] https://www.youtube.com/watch?v=Lh9LY5YoH0I&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
+[XXXXXII] https://www.youtube.com/watch?v=1opjnegd_hA
+[XXXXXIII] https://support.minitab.com/en-us/minitab/21/help-and-how-to/statistical-modeling/time-series/how-to/augmented-dickey-fuller-test/interpret-the-results/all-statistics-and-graphs/
