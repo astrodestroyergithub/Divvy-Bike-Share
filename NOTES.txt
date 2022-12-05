@@ -259,3 +259,4 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXXI] https://www.youtube.com/watch?v=Lh9LY5YoH0I&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
 [XXXXXII] https://www.youtube.com/watch?v=1opjnegd_hA
 [XXXXXIII] https://support.minitab.com/en-us/minitab/21/help-and-how-to/statistical-modeling/time-series/how-to/augmented-dickey-fuller-test/interpret-the-results/all-statistics-and-graphs/
+[XXXXXIV] https://otexts.com/fpp2/arima-estimation.html
