@@ -205,6 +205,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * Time Series Analysis : For predicting future prospects of the industry
 * Hadamard Pdt. of Matrices (Element-Wise Pdt.)
 * Auto Regression (AR) Models, Auto Regressive Integrated Moving Average (ARIMA) Models, Auto Regressive Moving Average (ARMA) Models
+* Patent, SCI, Scopus Indexed Journal Paper, Scopus Indexed Conference Paper, Scopus Indexed Book Chapter
 
 [I] https://egateway.chennai.vit.ac.in/home
 [II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share 
