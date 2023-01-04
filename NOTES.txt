@@ -271,6 +271,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXXXI] https://www.youtube.com/watch?v=8qQRD0Z0CH4
 [XXXXXXII] https://www.youtube.com/watch?v=sGQfiyXOvF0
 [XXXXXXIII] https://www.youtube.com/watch?v=WAXfRAI96YA
+[XXXXXXIV] https://www.youtube.com/watch?v=yPhUz6xjhGY
 
 [*] Process Flow Succession:
 
