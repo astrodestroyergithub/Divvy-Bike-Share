@@ -50,6 +50,8 @@ df$day <- format(df$date,"%d")
 df <- df %>%
   mutate(day_of_week <- weekdays(df$date))
 
+df10 <- df
+
 # checking if we have the required column inclusions
 head(df)
 
