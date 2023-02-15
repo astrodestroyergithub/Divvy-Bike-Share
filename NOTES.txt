@@ -208,6 +208,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * Patent, SCI, Scopus Indexed Journal Paper, Scopus Indexed Conference Paper, Scopus Indexed Book Chapter
 * Excel Graphs, Tableau Visualizations
 * Darts, XGBoost
+* Simple Exponential Smoothing (SES), Holt Winter’s Exponential Smoothing (HWES), KPSS Test, N-BEATS, N-HiTS, Temporal Fusion Transformer (Google), DeepAR
 
 [I] https://egateway.chennai.vit.ac.in/home
 [II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share 
