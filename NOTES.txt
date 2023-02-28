@@ -208,7 +208,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 * Patent, SCI, Scopus Indexed Journal Paper, Scopus Indexed Conference Paper, Scopus Indexed Book Chapter
 * Excel Graphs, Tableau Visualizations
 * Darts, XGBoost
-* Simple Exponential Smoothing (SES), Holt Winter’s Exponential Smoothing (HWES), KPSS Test, N-BEATS, N-HiTS, Temporal Fusion Transformer (Google), DeepAR
+* Simple Exponential Smoothing (SES), Double Exponential Smoothing (DES), Holt Winter’s Exponential Smoothing (HWES), KPSS Test, N-BEATS, N-HiTS, Temporal Fusion Transformer (Google), DeepAR
 
 [I] https://egateway.chennai.vit.ac.in/home
 [II] https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share 
@@ -290,6 +290,8 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXXXXVIII] https://www.youtube.com/watch?v=fNqd7oYl328
 [XXXXXXXIX] https://www.youtube.com/watch?v=QZ-CyA6cBsQ
 [XXXXXXXX] https://www.youtube.com/watch?v=Ftc9nPKvv3Y&list=PLS1QulWo1RIbn2s-Nr5h11rtsAdAlt6kc
+[XXXXXXXXI] https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+[XXXXXXXXII] https://www.youtube.com/watch?v=i7Pyf1z_8XE
 
 [*] Process Flow Succession:
 
