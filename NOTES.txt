@@ -295,6 +295,7 @@ FFNNs (Feed Forward Neural Networks), RNN (Recurrent Neural Network), LSTM (Long
 [XXXXXXXXIII] https://towardsdatascience.com/temporal-fusion-transformer-time-series-forecasting-with-deep-learning-complete-tutorial-d32c1e51cd91
 [XXXXXXXXIV] https://jonas-schroeder.medium.com/data-scientist-turning-quant-iii-using-lstm-neural-networks-to-predict-tomorrows-stock-price-68627a31f9a5
 [XXXXXXXXV] https://towardsdatascience.com/n-beats-time-series-forecasting-with-neural-basis-expansion-af09ea39f538
+[XXXXXXXXVI] https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
 
 [*] Process Flow Succession:
 
